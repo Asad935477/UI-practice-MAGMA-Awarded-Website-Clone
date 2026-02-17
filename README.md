@@ -41,7 +41,8 @@ To set up this project locally, follow these steps:
     Open the `index.html` file in your favorite web browser to view the website.
 
 ## Usage
-Feel free to explore the website and interact with its features. Navigate through different sections to experience the stunning visuals, smooth animations, and elegant scrolling effects.
+Feel free to explore the website and interact with its features. Navigate through different sections to experience the stunning visuals, smooth animations, and elegant scrolling effects. 
+Plagrism is not encougraged
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
