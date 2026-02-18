@@ -1,6 +1,6 @@
 ## MAGMA Real Estate Agency (Awwwards 2023 winner clone)
 
-Welcome to MAGMA, an award-winning real estate agency website clone! This project showcases a sleek and modern design, built to offer an exceptional user experience. The website is crafted with HTML, CSS, JavaScript, and leverages Three.js for stunning 3D visuals, GSAP for smooth animations, and Locomotive Scroll for sophisticated scrolling effects.
+Welcome to MAGMA, an award-winning real estate agency website clone! This project showcases a sleek and modern design, built to offer an exceptional user experience. The website is crafted with HTML, CSS, JavaScript, and leverages Three.js for stunning 3D visuals, GSAP for smooth animations, and Locomotive Scroll for sophisticated scrolling effect.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
